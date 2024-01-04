@@ -38,6 +38,10 @@ a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+p{
+    font-family: 'Kalam', cursive;
+}
+
 header{
     position: relative;
     display: flex;
@@ -239,8 +243,10 @@ h2{
     background-color: unset;
     color: rgb(0, 0, 0);
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: bold;
+    font-family: 'Kalam', cursive;
+    font-size: 2.18rem;
     
 }
 
@@ -250,7 +256,7 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 731rem;
+    margin-top: 718rem;
     background-color: rgb(253, 231, 253);
 }
 
@@ -264,7 +270,7 @@ h2{
 
 .info-detail--title p{
     margin-top: 15px;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: bold;
     color: rgb(0, 0, 0);
     /* text-shadow: -2px -1px 13px black; */
@@ -352,7 +358,7 @@ h2{
     min-width: 320px;
     height: auto;
     padding: 20px 10px;
-    margin-top: 128rem;
+    margin-top: 131rem;
     background-color: rgb(253, 231, 253);
 }
 
@@ -404,7 +410,7 @@ h2{
     max-width: 600px;
     height: auto;
     padding: 100px 40px;
-    margin-top: 571rem;
+    margin-top: 557rem;
     background-color: rgb(255, 237, 254);
 }
 
@@ -521,10 +527,10 @@ h2{
 }
 
 .regalosclase p{
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     font-style: oblique;
     font-weight: bold;
-    line-height: 5rem;
+    line-height: 5.5rem;
 }
 
 
@@ -570,7 +576,7 @@ h2{
     height: auto;
     padding: 20px 20px;
     margin: 10px;
-    margin-top: 805rem;
+    margin-top: 783rem;
     align-items: center;
     display: flex;
     justify-content: center;
